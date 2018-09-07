@@ -1,0 +1,5 @@
+C:\Users\Sokleang Kry\source\repos\SokleangAdditionDLL\SokleangAdditionDLL\bin\Debug\SokleangAdditionDLL.dll
+C:\Users\Sokleang Kry\source\repos\SokleangAdditionDLL\SokleangAdditionDLL\bin\Debug\SokleangAdditionDLL.pdb
+C:\Users\Sokleang Kry\source\repos\SokleangAdditionDLL\SokleangAdditionDLL\obj\Debug\SokleangAdditionDLL.csproj.CoreCompileInputs.cache
+C:\Users\Sokleang Kry\source\repos\SokleangAdditionDLL\SokleangAdditionDLL\obj\Debug\SokleangAdditionDLL.dll
+C:\Users\Sokleang Kry\source\repos\SokleangAdditionDLL\SokleangAdditionDLL\obj\Debug\SokleangAdditionDLL.pdb
