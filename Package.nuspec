@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SokleangPackage</id>
+    <version>1.0.1</version>
+    <authors>Sokleang Kry</authors>
+    <owners>Sokleang Kry</owners>
+    <licenseUrl>https://github.com/SokleangKry/sokleangkry</licenseUrl>
+    <projectUrl>https://github.com/SokleangKry/sokleangkry</projectUrl>
+    <iconUrl>https://github.com/SokleangKry/sokleangkry</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SokleangPackage description</description>
+    <releaseNotes>Summary of changes made in this release of the sokleang package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Sokleangpackage Tag1 Tag2</tags>
+    <dependencies>
+      <dependency id="Microsoft.Net.Http" version="2.2.29" />
+      <dependency id="Newtonsoft.Json" version="11.0.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="sokleangNuget3\sokleangNuget3.cs" target="content\SokleangFolder\sokleangNuget3.1.cs"/>
+  </files>
+</package>
